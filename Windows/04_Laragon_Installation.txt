@@ -1,0 +1,32 @@
+Composer: 
+    Add Php that's already installed with Laragon to the composer when setup it.
+
+--------------------------------------------------------------------------------------------
+Opening the [Web] from laragon = [www, index.php] = [root]
+[root] is the folder that contains all projects
+
+Opening the [Database] from laragon = Session Manager: to open connection with any DB Server.
+
+h = virtual host
+
+--------------------------------------------------------------------------------------------
+Quick App: 
+    you can edit it's configurations to add any another framework like (CodeIgnator)
+    or you can Edit the code that's installed laravel itself.
+
+--------------------------------------------------------------------------------------------
+preferences: 
+    [] auto create virtual host
+    hostname template
+
+--------------------------------------------------------------------------------------------
+Adding Phpmyadmin to Laragon:
+    -To install a version that's fetched with Laragon: 
+        Tools > Quick Add > phpmyadmin
+
+    -To Install the Last Version of phpmyadmin: 
+        Download the last version of phpmyadmin and put it in this path: 
+        laragon/etc/apps 
+
+        extract the zip file, and rename the extracted folder to phpMyAdmin
+--------------------------------------------------------------------------------------------
