@@ -1,0 +1,5 @@
+01- Install Dart-Sdk from: https://dart.dev/get-dart/archive
+
+02- Unzip the folder, and add it to this path: C:\Tools
+
+03- Add the bin folder to system variables: C:\Tools\dart-sdk\bin
