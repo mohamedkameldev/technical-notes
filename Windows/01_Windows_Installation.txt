@@ -3,29 +3,11 @@
 2- Install Updates,
     active the >>> buttom, to let him install updates once it's downloaded.
 
-3- Uninstall UnWanted Apps, 
-    Update Apps from Microsoft Store.
+3- Uninstall UnWanted Apps & Update Apps from Microsoft Store.
 
-4- Register with your university email (Globally and on Edge)
-    Register with Outlook email (Globally).
+4- Register with your university email (Globally)
+5- Register with Outlook email (Globally & edge).
 
-5- Install Office and it's packages. 
+6- Install your programs.
 
-6- Install google chrome and login with your gmail,
-
-7- Download all your programs.
-    Winrar
-    VLC
-    Adobe Acrobat(Specify your Options: No Macasffa, Chrome Extension)
-    Telegram - Whatsapp
-    Visual Studio Code, and C++ Libraries Or at least Latest Microsoft Visual C++ Redistributable Version (VC_redist.x64.exe)
-        https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version
-
-    Git (git --version)
-    Github Desktop
-    Visual Studio Code
-
-    Dbeaver
-    Postman
-
-8- Move Your Data.
+7- Move Your Data.
