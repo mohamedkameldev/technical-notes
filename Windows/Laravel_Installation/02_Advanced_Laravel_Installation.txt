@@ -1,37 +1,11 @@
-Mysql Server:
-    Install Mysql Server & Mysql Workbench & Mysql CLI 
-    https://www.youtube.com/watch?v=BxdSUGBs0gM
-
-    Set environment variable for MySQL
-    https://www.youtube.com/watch?v=a1AMVA9p3W0
+Mysql Server
 
 ------------------------------------------------------
-Apache & Php:
-    Explanation Videos: 
-        https://www.youtube.com/watch?v=3EAj9tsXLFU
-        https://www.youtube.com/watch?v=R6typ9ozMOo&t=1s
-
-    -Supported Visual C++ Redistributable: 
-        https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
-    
+Apache & Php:    
     -Apache24:
-        Download apache from here: 
-        https://www.apachelounge.com/download/
-        Copy instructions from here: 
-        https://httpd.apache.org/docs/current/platform/windows.html#down
-        
-        you can either start it, or deal with it as a service in your machine.
-        open cmd as an administrator, and then:
-            to run it from the terminal: `httpd.exe` - You can shut down it by pressing Ctrl+C
-            to install it as a service: `httpd.exe -k install` - and then start it as a service.
         
     -php: 
-        https://windows.php.net/download/ (Thread Safe)  
-        Add php to your system variables.
-        Edit the System Environment Variables > Environment Variables > System Variables > (Path) > Add the New Path of you php setup.
-        php -v
-        
-        and uncomment mysqli and pdo from php.ini file
+        uncomment mysqli and pdo from php.ini file
 
     -Apache Configurations:         
         AddHandler application/x-httpd-php .php

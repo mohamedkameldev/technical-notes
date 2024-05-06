@@ -1,13 +1,12 @@
 1- Install windows(don't sign in to outlook account - sign in as a local account).
 
-2- Install Updates,
-    active the >>> buttom, to let him install updates once it's downloaded.
+2- Install Updates
 
 3- Uninstall UnWanted Apps & Update Apps from Microsoft Store.
 
-4- Register with your university email (Globally)
-5- Register with Outlook email (Globally & edge).
+4- Install your programs.
 
-6- Install your programs.
+5- Register with your university email (Globally & edge).
+    Register with your gmail account (chrome).
 
-7- Move Your Data.
+6- Move Your Data.

@@ -1,26 +1,28 @@
-Winrar
-Microsoft Visual C++ Redistributable Version (VC_redist.x64.exe)
-    https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version
+Microsoft Visual C++ Redistributable Version (VC_redist.x64)
 
+Python: from microsoft store
+Jupyter: pip install jupyter
 
-Python & Jupyter
+mysql
+apache - php - composer
 
-Office and it's packages (English & Arabic).
+nodejs
 
-VLC
-Telegram - Whatsapp
-Okular
+git 
 
-google chrome -> your gmail
-
+Office (English & Arabic).
 --------------------------------------------------------------------------------------
 
-Git (git --version)
+google chrome
+brave -> anonymous and ads blocking
+Visual Studio Code
 Github Desktop
 
-Visual Studio Code
+VLC
+Telegram
 
-Laravel environment
+Whatsapp
+Okular
 
 Dbeaver
 Postman
