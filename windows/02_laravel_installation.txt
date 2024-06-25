@@ -5,7 +5,11 @@ Apache & Php:
     -Apache24:
         
     -php: 
-        uncomment mysqli and pdo from php.ini file
+        php.ini file: 
+            display_errors = On
+            date.timezone = Africa/Cairo
+            Enable Extensions: mysqli - mbstring - curl - openssl - zip - fileinfo
+            if you face any problem with mysqli write this: extension="C:\php\ext\php_mysqli.dll" instead of this extension=mysqli
 
     -Apache Configurations:         
         AddHandler application/x-httpd-php .php

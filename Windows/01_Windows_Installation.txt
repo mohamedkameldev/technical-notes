@@ -1,12 +1,27 @@
-1- Install windows(don't sign in to outlook account - sign in as a local account).
+-Install windows(don't sign in to outlook account - sign in as a local account).
+-Install Updates
 
-2- Install Updates
+-Uninstall UnWanted Apps & Update Apps from Microsoft Store.
 
-3- Uninstall UnWanted Apps & Update Apps from Microsoft Store.
+-Install your programs.
+    Microsoft Visual C++ Redistributable Version (VC_redist.x64)
+    git
 
-4- Install your programs.
+    mysql
+    apache - php - composer
 
-5- Register with your university email (Globally & edge).
-    Register with your gmail account (chrome).
+    vlc
+    adobe reader
+    telegram
+    whatsapp
 
-6- Move Your Data.
+    (Register with your university email (Globally & edge))
+    office
+
+    brave
+    chrome (Register with your gmail account (chrome))
+
+    visual studio code
+    github desktop
+
+-Move Your Data.
