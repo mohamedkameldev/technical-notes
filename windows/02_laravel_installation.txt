@@ -1,5 +1,4 @@
 Mysql Server
-
 ------------------------------------------------------
 Apache & Php:    
     -Apache24:
@@ -17,11 +16,9 @@ Apache & Php:
         LoadModule php_module "C:/php/php8apache2_4.dll"
         PHPIniDir "C:/php"
         DirectoryIndex index.php
-
 ------------------------------------------------------
 Composer (Link it with your php)
 ------------------------------------------------------
-
 Phpmyadmin: 
     Download it
     add it to the htdocs folder
