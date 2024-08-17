@@ -1,27 +1,27 @@
-Mysql Server
-------------------------------------------------------
-Apache & Php:    
-    -Apache24:
-        
-    -php: 
-        php.ini file: 
-            display_errors = On
-            date.timezone = Africa/Cairo
-            Enable Extensions: mysqli - mbstring - curl - openssl - zip - fileinfo
-            if you face any problem with mysqli write this: extension="C:\php\ext\php_mysqli.dll" instead of this extension=mysqli
+-Mysql Server
+-python 
+-node js
+-Apache24
+    
+-php: 
+    php.ini file: 
+        display_errors = On
+        date.timezone = Africa/Cairo
+        Enable Extensions: mysqli - mbstring - curl - openssl - zip - fileinfo
+        if you face any problem with mysqli write this: extension="C:\php\ext\php_mysqli.dll" instead of this extension=mysqli
 
-    -Apache Configurations:         
-        AddHandler application/x-httpd-php .php
-        AddType application/x-httpd-php .php .html 
-        LoadModule php_module "C:/php/php8apache2_4.dll"
-        PHPIniDir "C:/php"
-        DirectoryIndex index.php
-------------------------------------------------------
-Composer (Link it with your php)
-------------------------------------------------------
-Phpmyadmin: 
+-Apache Configurations:         
+    AddHandler application/x-httpd-php .php
+    AddType application/x-httpd-php .php .html 
+    LoadModule php_module "C:/php/php8apache2_4.dll"
+    PHPIniDir "C:/php"
+    DirectoryIndex index.php
+
+-Composer (Link it with your php)
+
+-Phpmyadmin: 
     Download it
     add it to the htdocs folder
     rename it as you like
     then open it as a php project from your localhost
-------------------------------------------------------
+

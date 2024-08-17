@@ -8,7 +8,7 @@
     Download Nividia Driver
     git
 
-    Laravel Installation
+    (Laravel Installation)
 
     vlc
     adobe reader
