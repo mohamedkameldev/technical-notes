@@ -1,0 +1,14 @@
+-brave
+-firefox (Register with your gmail account)
+-chrome (Register with your public account)
+
+-visual studio code
+-github desktop
+
+-telegram
+-whatsapp
+
+-vlc
+-okular
+
+(move your data)

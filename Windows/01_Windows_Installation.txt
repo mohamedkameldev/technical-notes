@@ -1,28 +1,10 @@
--Install windows(don't sign in to outlook account - sign in as a local account).
--Install Updates
+-install windows(without internet - sign in as a local account).
+-install Updates
 
--Uninstall UnWanted Apps & Update Apps from Microsoft Store.
+-uninstall unwanted apps & update apps from microsoft store.
 
--Install your programs.
-    Microsoft Visual C++ Redistributable Version (VC_redist.x64)
-    Download Nividia Driver
-    git
+-microsoft visual c++ redistributable version (vc_redist.x64)
+-nividia driver
 
-    (Laravel Installation)
-
-    vlc
-    adobe reader
-    telegram
-    whatsapp
-
-    (Register with your university email (Globally & edge))
-    office
-
-    brave
-    firefox (Register with your public account)
-    chrome (Register with your gmail account (chrome))
-
-    visual studio code
-    github desktop
-
--Move Your Data.
+-register with your university email (globally & edge)
+-install office

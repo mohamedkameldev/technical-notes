@@ -1,14 +1,18 @@
--Mysql Server
+-git
 -python 
--node js
+-node js (without chocolaty)
+
+-mysql server
+
 -Apache24
     
 -php: 
-    php.ini file: 
-        display_errors = On
-        date.timezone = Africa/Cairo
-        Enable Extensions: mysqli - mbstring - curl - openssl - zip - fileinfo
-        if you face any problem with mysqli write this: extension="C:\php\ext\php_mysqli.dll" instead of this extension=mysqli
+    php.ini: 
+    display_errors = On
+    date.timezone = Africa/Cairo
+    Enable Extensions: mysqli - pdo_mysql - mbstring - curl - openssl - zip - fileinfo
+    if you face any problem with mysqli write this: 
+        extension="C:\php\ext\php_mysqli.dll" instead of this extension=mysqli
 
 -Apache Configurations:         
     AddHandler application/x-httpd-php .php
@@ -19,9 +23,4 @@
 
 -Composer (Link it with your php)
 
--Phpmyadmin: 
-    Download it
-    add it to the htdocs folder
-    rename it as you like
-    then open it as a php project from your localhost
-
+-Phpmyadmin: (download it - add it to the htdocs folder)
